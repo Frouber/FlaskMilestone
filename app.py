@@ -9,7 +9,7 @@ from dateutil.relativedelta import relativedelta
 
 app = Flask(__name__)
 
-quandl.ApiConfig.api_key = 'xomvruK1ZNabrSwxkJkW'
+quandl.ApiConfig.api_key = '9x8mg3jSAKYpRErczV4V'
 quandl.ApiConfig.api_version = '2015-04-09'
 
 def get_graph(symbol):
